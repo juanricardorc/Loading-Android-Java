@@ -50,6 +50,6 @@ publish {
     artifactId = 'loading'
     publishVersion = '1.0.0'
     desc = 'Library for android'
-    website = 'https://github.com/juanricardorc/tooass'
+    website = 'https://github.com/juanricardorc/loading'
 }
 
