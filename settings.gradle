@@ -1,0 +1,3 @@
+rootProject.name='Loading'
+include ':sample'
+include ':loading'
