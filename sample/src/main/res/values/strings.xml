@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Loading</string>
+    <string name="con_texto">Con texto</string>
+    <string name="sin_texto">Sin texto</string>
 </resources>
